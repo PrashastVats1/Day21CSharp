@@ -1,0 +1,6 @@
+D:\Mphasis\Live Session\Day21\Assignment 24\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+D:\Mphasis\Live Session\Day21\Assignment 24\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+D:\Mphasis\Live Session\Day21\Assignment 24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day21\Assignment 24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day21\Assignment 24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+D:\Mphasis\Live Session\Day21\Assignment 24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb

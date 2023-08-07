@@ -1,0 +1,11 @@
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\bin\Debug\ConAppBinaryXMLSerDeSer.exe.config
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\bin\Debug\ConAppBinaryXMLSerDeSer.exe
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\bin\Debug\ConAppBinaryXMLSerDeSer.pdb
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\bin\Debug\EmployeeLib.dll
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\bin\Debug\EmployeeLib.pdb
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\obj\Debug\ConAppBinaryXMLSerDeSer.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\obj\Debug\ConAppBinaryXMLSerDeSer.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\obj\Debug\ConAppBinaryXMLSerDeSer.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\obj\Debug\ConAppBinaryXMLSerDeSer.csproj.CopyComplete
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\obj\Debug\ConAppBinaryXMLSerDeSer.exe
+D:\Mphasis\Live Session\Day21\Assignment 24\ConAppBinaryXMLSerDeSer\ConAppBinaryXMLSerDeSer\obj\Debug\ConAppBinaryXMLSerDeSer.pdb
