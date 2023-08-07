@@ -1,0 +1,19 @@
+D:\Mphasis\Live Session\SimpliLearn Projects\Practice Projects\ConAppSerializationExTwo\ConAppSerializationExTwo\bin\Debug\ConAppSerializationExTwo.exe.config
+D:\Mphasis\Live Session\SimpliLearn Projects\Practice Projects\ConAppSerializationExTwo\ConAppSerializationExTwo\bin\Debug\ConAppSerializationExTwo.exe
+D:\Mphasis\Live Session\SimpliLearn Projects\Practice Projects\ConAppSerializationExTwo\ConAppSerializationExTwo\bin\Debug\ConAppSerializationExTwo.pdb
+D:\Mphasis\Live Session\SimpliLearn Projects\Practice Projects\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Practice Projects\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Practice Projects\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Practice Projects\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.exe
+D:\Mphasis\Live Session\SimpliLearn Projects\Practice Projects\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.pdb
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.exe
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.pdb
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\bin\Debug\ConAppSerializationExTwo.exe.config
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\bin\Debug\ConAppSerializationExTwo.exe
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\bin\Debug\ConAppSerializationExTwo.pdb
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\bin\Debug\PersonLib.dll
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\bin\Debug\PersonLib.pdb
+D:\Mphasis\Live Session\Day21\ConAppSerializationExTwo\ConAppSerializationExTwo\obj\Debug\ConAppSerializationExTwo.csproj.CopyComplete

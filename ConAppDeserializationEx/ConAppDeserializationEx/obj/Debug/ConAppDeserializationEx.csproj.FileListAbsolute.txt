@@ -1,0 +1,11 @@
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\bin\Debug\ConAppDeserializationEx.exe.config
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\bin\Debug\ConAppDeserializationEx.exe
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\bin\Debug\ConAppDeserializationEx.pdb
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\bin\Debug\PersonLib.dll
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\bin\Debug\PersonLib.pdb
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\obj\Debug\ConAppDeserializationEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\obj\Debug\ConAppDeserializationEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\obj\Debug\ConAppDeserializationEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\obj\Debug\ConAppDeserializationEx.csproj.CopyComplete
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\obj\Debug\ConAppDeserializationEx.exe
+D:\Mphasis\Live Session\Day21\ConAppDeserializationEx\ConAppDeserializationEx\obj\Debug\ConAppDeserializationEx.pdb

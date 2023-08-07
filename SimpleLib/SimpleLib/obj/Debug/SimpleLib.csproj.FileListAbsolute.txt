@@ -1,0 +1,6 @@
+D:\Mphasis\Live Session\Day21\SimpleLib\SimpleLib\bin\Debug\SimpleLib.dll
+D:\Mphasis\Live Session\Day21\SimpleLib\SimpleLib\bin\Debug\SimpleLib.pdb
+D:\Mphasis\Live Session\Day21\SimpleLib\SimpleLib\obj\Debug\SimpleLib.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day21\SimpleLib\SimpleLib\obj\Debug\SimpleLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day21\SimpleLib\SimpleLib\obj\Debug\SimpleLib.dll
+D:\Mphasis\Live Session\Day21\SimpleLib\SimpleLib\obj\Debug\SimpleLib.pdb

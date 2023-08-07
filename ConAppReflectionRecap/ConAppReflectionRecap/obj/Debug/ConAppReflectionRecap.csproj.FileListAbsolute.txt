@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day21\ConAppReflectionRecap\ConAppReflectionRecap\bin\Debug\ConAppReflectionRecap.exe.config
+D:\Mphasis\Live Session\Day21\ConAppReflectionRecap\ConAppReflectionRecap\bin\Debug\ConAppReflectionRecap.exe
+D:\Mphasis\Live Session\Day21\ConAppReflectionRecap\ConAppReflectionRecap\bin\Debug\ConAppReflectionRecap.pdb
+D:\Mphasis\Live Session\Day21\ConAppReflectionRecap\ConAppReflectionRecap\obj\Debug\ConAppReflectionRecap.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day21\ConAppReflectionRecap\ConAppReflectionRecap\obj\Debug\ConAppReflectionRecap.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day21\ConAppReflectionRecap\ConAppReflectionRecap\obj\Debug\ConAppReflectionRecap.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day21\ConAppReflectionRecap\ConAppReflectionRecap\obj\Debug\ConAppReflectionRecap.exe
+D:\Mphasis\Live Session\Day21\ConAppReflectionRecap\ConAppReflectionRecap\obj\Debug\ConAppReflectionRecap.pdb

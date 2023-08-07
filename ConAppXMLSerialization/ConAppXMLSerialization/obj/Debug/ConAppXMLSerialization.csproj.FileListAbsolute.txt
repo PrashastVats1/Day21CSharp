@@ -1,0 +1,11 @@
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\bin\Debug\ConAppXMLSerialization.exe.config
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\bin\Debug\ConAppXMLSerialization.exe
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\bin\Debug\ConAppXMLSerialization.pdb
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\bin\Debug\SimpleLib.dll
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\bin\Debug\SimpleLib.pdb
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\obj\Debug\ConAppXMLSerialization.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\obj\Debug\ConAppXMLSerialization.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\obj\Debug\ConAppXMLSerialization.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\obj\Debug\ConAppXMLSerialization.csproj.CopyComplete
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\obj\Debug\ConAppXMLSerialization.exe
+D:\Mphasis\Live Session\Day21\ConAppXMLSerialization\ConAppXMLSerialization\obj\Debug\ConAppXMLSerialization.pdb

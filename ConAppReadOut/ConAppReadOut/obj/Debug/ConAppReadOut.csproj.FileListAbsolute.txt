@@ -1,0 +1,11 @@
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\bin\Debug\ConAppReadOut.exe.config
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\bin\Debug\ConAppReadOut.exe
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\bin\Debug\ConAppReadOut.pdb
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\bin\Debug\SimpleLib.dll
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\bin\Debug\SimpleLib.pdb
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\obj\Debug\ConAppReadOut.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\obj\Debug\ConAppReadOut.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\obj\Debug\ConAppReadOut.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\obj\Debug\ConAppReadOut.csproj.CopyComplete
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\obj\Debug\ConAppReadOut.exe
+D:\Mphasis\Live Session\Day21\ConAppReadOut\ConAppReadOut\obj\Debug\ConAppReadOut.pdb
